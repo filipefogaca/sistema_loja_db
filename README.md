@@ -17,3 +17,8 @@ Segurança básica: Cadastro de funcionários com cargos e credenciais de login.
 ## O caminho até aqui (Modelagem)
 Antes de escrever qualquer linha de código SQL, eu desenhei o "esqueleto" do banco para garantir que os dados fizessem sentido entre si.
 
+#### O rascunho (Modelo Conceitual)
+Aqui eu foquei nas entidades e como elas conversam. Por exemplo: "uma loja possui departamentos" e "um funcionário realiza vendas".
+
+![Texto alternativo]https://github.com/filipefogaca/sistema_loja_db/blob/main/modelagem/conceitual/conceitual.png
+
