@@ -49,4 +49,4 @@ Cole no seu terminal ou editor SQL favorito (como MySQL Workbench ou DBeaver).
 Execute e pronto! O banco dbloja estará criado e pronto para uso.
 
 
-Filipe Fogaça
+Feito por: Filipe Fogaça
