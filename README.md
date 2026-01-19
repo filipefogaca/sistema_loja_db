@@ -20,5 +20,5 @@ Antes de escrever qualquer linha de código SQL, eu desenhei o "esqueleto" do ba
 #### O rascunho (Modelo Conceitual)
 Aqui eu foquei nas entidades e como elas conversam. Por exemplo: "uma loja possui departamentos" e "um funcionário realiza vendas".
 
-![Texto alternativo]https://github.com/filipefogaca/sistema_loja_db/blob/main/modelagem/conceitual/conceitual.png
+![Texto alternativo](https://github.com/filipefogaca/sistema_loja_db/blob/main/modelagem/conceitual/conceitual.png)
 
